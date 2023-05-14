@@ -5,7 +5,7 @@
 #### Запуск приложения
 Для запуска приложения скопируйте репозиторий 
 ```
-git clone http://github.com/menyanet73/build_service/
+git clone https://github.com/menyanet73/build_service/
 ```
 Перейдите в репозиторий
 ```
